@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/heroku/go-getting-started",
+	"ImportPath": "github.com/YogaLoft/yogabook",
 	"GoVersion": "go1.5",
 	"Packages": [
 		"./..."
@@ -21,6 +21,15 @@
 		{
 			"ImportPath": "github.com/mattn/go-isatty",
 			"Rev": "7fcbc72f853b92b5720db4a6b8482be612daef24"
+		},
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.4-19-gc8875c0",
+			"Rev": "c8875c0ed47e07b063c3628e2e4d4c9826721795"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "10ef21a441db47d8b13ebcc5fd2310f636973c77"
 		},
 		{
 			"ImportPath": "golang.org/x/net/context",
