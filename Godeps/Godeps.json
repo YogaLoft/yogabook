@@ -11,6 +11,11 @@
 			"Rev": "4cc2de6207f4128624cbdd16be30f64966c67c08"
 		},
 		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-63-g11fc39a",
+			"Rev": "11fc39a580a008f1f39bb3d11d984fb34ed778d9"
+		},
+		{
 			"ImportPath": "github.com/manucorporat/sse",
 			"Rev": "c142f0f1baea5cef7f98a8a6c222f6134368c1f5"
 		},
