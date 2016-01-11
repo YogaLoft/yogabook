@@ -1,7 +1,11 @@
 
-# go-getting-started
+# yogabook
 
-A barebones Go app, which can easily be deployed to Heroku.  
+An Open Source app for managing your Yoga Studio.
+
+## Roadmap
+
+- [ ] implement [JWT](http://jwt.io/) for rest API authentication using [jose](https://github.com/SermoDigital/jose)
 
 This application supports the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article - check it out.
 
